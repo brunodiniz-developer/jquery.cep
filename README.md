@@ -1,5 +1,5 @@
 # jquery.cep
-Plugins próprios criados via JavaScript e Jquery
+Plugin com foco em trazer os dados do endereço referente ao CEP informado.
 
 Veja como usar:
 ===============
