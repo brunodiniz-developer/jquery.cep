@@ -1,14 +1,14 @@
 # jquery.cep
-Plugin com foco em trazer os dados do endereço referente ao CEP informado.
+Plugin com foco em trazer os dados do endereço referente ao CEP informado, caso o CEP seja inválido ou não encontre o endereço retornará uma mensagem.
 
 Veja como usar:
 ===============
 
-Temos um atributo de configuração que é mandado para o plugin.
+Temos um atributo de configuração que é enviado para o plugin.
 
-Os campos no plugin sempre vão ser:
+Os campos no plugin sempre vão ser endereco_ 'dado_requerido':
 
-Nome dos campos padrão
+Exemplo nome dos campos padrão
 =========
 
 - endereco_cep
